@@ -1,4 +1,4 @@
-## Desarrollo de una API REST con Spring Boot
+# Desarrollo de una API REST con Spring Boot
 
 ## Descripción
 
@@ -20,6 +20,14 @@ Ventajas del uso de REST
 - Heterogeneidad
 - Variedad de formatos: JSON, XML, ...
 - En general, es más rápido y utiliza menos ancho de banda
+
+## Requisitos
+
+Es necesario tener instalado:
+
+* Eclipse IDE 2020-03 o superior [https://www.eclipse.org/downloads/](https://www.eclipse.org/downloads/)
+
+* H2 Database Engine [https://www.h2database.com/html/main.html](https://www.h2database.com/html/main.html)
 
 ## Testear con cliente Postman
 
